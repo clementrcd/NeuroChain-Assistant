@@ -54,7 +54,7 @@ NeuroChain Assistant is an end-to-end AI application that combines deep learning
 
 
 ## Potential Structure
-
+```
 neurochain-assistant/
 │
 ├─ config/
@@ -99,3 +99,5 @@ neurochain-assistant/
 ├─ main.py
 ├─ requirements.txt   // TO BE DONE AT THE END
 └─ README.md
+
+```
